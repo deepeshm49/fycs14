@@ -1,0 +1,7 @@
+facebook="facebook's rating is"
+fb_rating=3.5
+
+fb_rating_str+str(3.5)
+fb=facebook+''+fb_rating_str
+
+print(fb)
